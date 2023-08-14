@@ -7,4 +7,4 @@
 <img src="https://github.com/lwmoreira/easy-shooping/blob/master/img/imagem_easy-shopping_Desktop.png?raw=true" />
   <br>
 <h3>Projeto para Smartphone:</h3>
-<img src="https://github.com/lwmoreira/easy-shooping/blob/master/img/imagem_easy-shopping_mobile.png?raw=true"/>
+<img src="https://github.com/lwmoreira/easy-shooping/blob/master/img/imagem_easy-shopping_mobile.png?raw=true" />
